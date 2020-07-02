@@ -1,1 +1,2 @@
 # begning
+for initial learning
